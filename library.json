@@ -1,0 +1,21 @@
+{
+  "name": "esp-boaty",
+  "keywords": "json, rest, http, web",
+  "description": "random stuff useful for arduino on boats",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skarlsson/esp-boaty.git"
+  },
+  "version": "1.0",
+  "authors": {
+    "name": "Svante Karlsson",
+    "url": ""
+  },
+  "exclude": [
+    "scripts",
+    "test",
+    "third-party"
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
